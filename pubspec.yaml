@@ -1,5 +1,5 @@
-name: test_clima_flutter
-description: clima flutter
+name: alecha_clima_flutter
+description: alecha clima flutter
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 version: 1.0.0+1
@@ -12,6 +12,9 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
+  geolocator: ^10.1.0
+  http: ^1.1.0
+  flutter_spinkit: ^5.2.0
 
 dev_dependencies:
   flutter_test:
